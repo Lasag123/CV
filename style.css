@@ -1,0 +1,56 @@
+/*h1 {
+  border-radius: 2000000000000px;
+  color: limegreen;
+  background-color: blue;
+  text-align: center;3
+  transform: rotate(0deg);
+  margin: 150px;
+  font-family: ARIAL;*/
+}
+
+body{
+background-color: lightblue;
+}
+
+p{
+border-radius: 100px 100px 110px 0 ;
+padding: 40px ;
+width: 150px;
+text-align: center;
+background-color: teal;
+color: aliceblue;
+font-size: 23px;
+
+}
+
+h6{border-radius: 100px 100px 110px 0 ;
+padding:40px ;
+width: 280px;
+text-align: center;
+background-color: gray;
+color: pink;
+font-size: 23px;
+}
+
+
+img{
+  border-radius: 0 100px 0 100px;
+  width: 600px;height: ;
+
+}
+
+h1{
+  font-family: 'Dancing Script',cursive;
+  color: teal;
+  font-weight: 600;
+}
+
+button{
+  margin: 20px 20px 0 0 ;
+  border-radius: 20px;
+  height: 60px;
+  width: 60px;
+  font-size:18px;
+  background-color: aliceblue;
+
+}
