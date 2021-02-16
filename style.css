@@ -43,7 +43,10 @@ h1{
   font-family: 'Dancing Script',cursive;
   color: teal;
   font-weight: 600;
-  text-decoration: none;
+}
+
+a{
+text-decoration: none;
 }
 
 button{
